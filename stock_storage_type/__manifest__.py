@@ -20,7 +20,8 @@
         "views/stock_location.xml",
         "views/stock_location_storage_type.xml",
         "views/stock_package_storage_type.xml",
-        "views/stock_picking.xml",
+        # "views/stock_picking.xml",  # View obsoleta, alterada para o stock_move.xml
+        "views/stock_move.xml",
         "views/storage_type_menus.xml",
     ],
     "demo": [
